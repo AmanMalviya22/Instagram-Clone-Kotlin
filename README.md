@@ -14,7 +14,7 @@
 git clone https://github.com/your-username/instagram-clone-kotlin.git
 cd instagram-clone-kotlin
 
-### step 2: Database Configuration
+*** Step 2: Database Configuration ***
 Set up your database and update the configuration in src/main/resources/application.properties.
 
 ### Step 3: Build the Project
